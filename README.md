@@ -1,6 +1,6 @@
 # Fashion Blog Template
 
-🔗 **Live Site:** fashion-blog-template
+🔗 **Live Site:** [fashion-blog-template](https://lukian2604.github.io/fashion-blog-template/)
 
 ---
 
